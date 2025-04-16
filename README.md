@@ -1,8 +1,11 @@
 ## Howdy, I'm Jordan 👋
 
-I have the current certifications: 
+## I have the current certifications: 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05b47639-a016-40c7-895d-5c1c8d32d740" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### GitHub Foundations:
+![GitHub Foundations](github-foundations.png)
+
+
 
 <!--
 **jbald-insight/jbald-insight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
